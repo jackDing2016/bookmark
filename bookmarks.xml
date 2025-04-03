@@ -3754,6 +3754,14 @@ Environment</title>
     </metadata>
    </info>
   </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Introduction%20to%20combinatorial%20analysis%20(John%20Riordan)%20(Z-Library).okular#0;C2:0.5:0.189423:1">
+   <title>should be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
  </folder>
  <folder href="file:///home/jack/doc/math/Enumerative Combinatorics (Earl Glen Whitehead, Jr.) (Z-Library).djvu">
   <title>/home/jack/doc/math/Enumerative Combinatorics (Earl Glen Whitehead, Jr.) (Z-Library).djvu</title>
@@ -4237,6 +4245,14 @@ Environment</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Mathematics%20of%20Choice%20Or,%20How%20to%20Count%20Without%20Counting%20(Ivan%20Morton%20Niven)%20(Z-Library).djvu#92;C2:0.5:0.672991:1">
    <title>5.4 Combinatorial Probability</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Mathematics%20of%20Choice%20Or,%20How%20to%20Count%20Without%20Counting%20(Ivan%20Morton%20Niven)%20(Z-Library).djvu#0;C2:0.5:0.201493:1">
+   <title>very very very very very good book</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5476,7 +5492,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#166;C2:0.5:0.319677:1">
-   <title>5 Binomial Coefficients</title>
+   <title>CHAPTER 5 Binomial Coefficients</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5524,7 +5540,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#270;C2:0.5:0.251397:1">
-   <title>6 Special Numbers</title>
+   <title>CHAPTER 6 Special Numbers</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5532,7 +5548,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#115;C2:0.5:0.251397:1">
-   <title>4 Number Theory</title>
+   <title>CHAPTER 4 Number Theory</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5540,7 +5556,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#14;C2:0.5:0.31347:1">
-   <title>1 Recurrent Problems</title>
+   <title>CHAPTER 1 Recurrent Problems</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5588,7 +5604,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#333;C2:0.5:0.319187:1">
-   <title>7 Generating Functions</title>
+   <title>CHAPTER 7 Generating Functions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5644,7 +5660,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#394;C2:0.5:0.328153:1">
-   <title>8 Discrete Probability</title>
+   <title>CHAPTER 8 Discrete Probability</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5660,7 +5676,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#34;C2:0.5:0.29496:1">
-   <title>2 Sums</title>
+   <title>CHAPTER 2 Sums</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5724,7 +5740,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#21;C2:0.5:0.753723:1">
-   <title>1.3</title>
+   <title>1.3 THE JOSEPHUS PROBLEM</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5796,7 +5812,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#314;C2:0.5:0.722122:1">
-   <title>6.7</title>
+   <title>6.7 CONTINUANTS</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5860,7 +5876,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#146;C2:0.5:0.490657:1">
-   <title>4.9</title>
+   <title>4.9 PHI AND MU</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5932,7 +5948,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#452;C2:0:-0.00356295:2">
-   <title>9 Asymptotics</title>
+   <title>CHAPTER 9 Asymptotics</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -5981,6 +5997,110 @@ Environment</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#476;C2:0.5:0.771941:1">
    <title>9.4 TWO ASYMPTOTIC TRICKS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#0;C2:0.5:0.20868:1">
+   <title>very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#80;C2:0.5:0.242927:1">
+   <title>CHAPTER 3 Intger Functions</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#56;C2:0.5:0.203429:1">
+   <title>#57</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#56;C2:0.5:0.774857:1">
+   <title>#57-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#57;C2:0.5:0.682286:1">
+   <title>#58</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#58;C2:0.5:0.361143:1">
+   <title>#59</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#59;C2:0.5:0.44:1">
+   <title>#60-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#59;C2:0.5:0.668571:1">
+   <title>#60-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#59;C2:0.5:0.782857:1">
+   <title>#60-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#255;C2:0.5:0.259124:1">
+   <title>#256</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#242;C2:0.5:0.762774:1">
+   <title>#243</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#236;C2:0.5:0.60219:1">
+   <title>#237</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#229;C2:0.5:0.658151:1">
+   <title>#230</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -6443,6 +6563,14 @@ Environment</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/Combinatorial%20mathematics%20(Herbert%20Ryser)%20(Z-Library).djvu#54;C2:0.5:0.19949:1">
    <title>CHAPTER5 SYSTEMS OF DISTINCT REPRESENTATIVES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Combinatorial%20mathematics%20(Herbert%20Ryser)%20(Z-Library).djvu#0;C2:0.5:0.178976:1">
+   <title>should be very very very good book</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -20748,6 +20876,118 @@ Environment</title>
     </metadata>
    </info>
   </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#0;C2:0.5:0.216953:1">
+   <title>may be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#56;C2:0.5:0.539926:1">
+   <title>#57</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#31;C2:0.5:0.792702:1">
+   <title>#32</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#5;C2:0.5:0.170809:1">
+   <title>PREFACE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#8;C2:0.5:0.16605:1">
+   <title>CONTENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#31;C2:0.5:0.100476:1">
+   <title>#32-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#54;C2:0.5:0.386039:1">
+   <title>#55</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#80;C2:0.5:0.47964:1">
+   <title>#81</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#99;C2:0.5:0.566367:1">
+   <title>#100</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#118;C2:0.5:0.42623:1">
+   <title>#119</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#134;C2:0.5:0.670899:1">
+   <title>#135</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#156;C2:0.5:0.511898:1">
+   <title>#157</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#174;C2:0.5:0.951348:1">
+   <title>#175</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/algorithmnew/Algorithmic%20Combinatorics%20(Shimon%20Even)%20(Z-Library).djvu#203;C2:0.5:0.0735061:1">
+   <title>#204</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
  </folder>
  <folder href="file:///home/jack/doc/computerScience/algorithmnew/Abstract Data Types and Algorithms (Manoochehr Azmoodeh (auth.)) (Z-Library).pdf">
   <title>/home/jack/doc/computerScience/algorithmnew/Abstract Data Types and Algorithms (Manoochehr Azmoodeh (auth.)) (Z-Library).pdf</title>
@@ -30315,7 +30555,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#135;C2:0.5:0.241955:1">
-   <title>CHAPTER </title>
+   <title>CHAPTER DERIVATION</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -30651,7 +30891,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#111;C2:0.5:0.524376:1">
-   <title>CHAPTER </title>
+   <title>CHAPTER CLASSIFICATION OF ADVERBS</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -30659,7 +30899,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#113;C2:0.5:0.381571:1">
-   <title>CHAPTER </title>
+   <title>CHAPTER FORMATION OF ADVERBS</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -30699,7 +30939,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#132;C2:0.5:0.623826:1">
-   <title>CHAPTER </title>
+   <title>CHAPTER COMPOSITION</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -30771,7 +31011,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#177;C2:0.5:0.596979:1">
-   <title>CHAPTER </title>
+   <title>CHAPTER ELLIPTICAL SENTENCES</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -30859,7 +31099,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#60;C2:0.5:0.546659:1">
-   <title>ART 151 important</title>
+   <title>ART 151 about antecedent important</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -31027,7 +31267,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#126;C2:0.5:0.621993:1">
-   <title>ART 287</title>
+   <title>ART 287 Co-ordinative Conjunctions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -31771,7 +32011,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#176;C2:0.5:0.239378:1">
-   <title>ART 449</title>
+   <title>ART 449 Contracted Sentences</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -32187,7 +32427,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#160;C2:0.446015:0.500296:1">
-   <title>ART 384</title>
+   <title>ART 385</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -32332,6 +32572,1142 @@ Applications of Digital Electronics</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#39;C2:0.500417:0.634687:1">
    <title>GROUP OBJECTIVE CASE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#171;C2:0.500332:0.330166:1">
+   <title>ART 417</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#170;C2:0.503219:0.849238:1">
+   <title>SECTION CLASSIFICATION OF ADVERBIAL CLAUSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#171;C2:0.503647:0.381335:1">
+   <title>ART 418</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#115;C2:0.501058:0.405066:1">
+   <title>ART 270</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#53;C2:0.419854:0.358597:1">
+   <title>ART 126</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#175;C2:0.5:0.514727:1">
+   <title>ART 445</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#175;C2:0.5:0.756156:1">
+   <title>ART 447</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#175;C2:0.5:0.9493:1">
+   <title>ART 448</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#126;C2:0.5:0.576147:1">
+   <title>CHAPTER CLASSIFICATION OF CONJUNCTIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#127;C2:0.5:0.728543:1">
+   <title>ART 288 Subordinative Conjunctions</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#178;C2:0.5:0.211015:1">
+   <title>ART 455</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#164;C2:0.5:0.477841:1">
+   <title>ART 396 Infinitive Complement</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#163;C2:0.5:0.849114:1">
+   <title>ART 395</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#163;C2:0.5:0.360415:1">
+   <title>ART 394</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#163;C2:0.5:0.0885767:1">
+   <title>GROUP Subjective Complement</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#181;C2:0.5:0.367809:1">
+   <title>ART 466</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#181;C2:0.5:0.484021:1">
+   <title>ART 468</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#205;C2:0.5:0.257374:1">
+   <title>ART 559</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#214;C2:0.5:0.631799:1">
+   <title>CHAPTER PUNCTUATION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#60;C2:0.5:0.478528:1">
+   <title>SECTION RELATIVE PRONOUNS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#167;C2:0.5:0.516699:1">
+   <title>CHAPTER SUBSTANTIVE CLAUSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#168;C2:0.5:0.362485:1">
+   <title>ART 405 important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#168;C2:0.5:0.483112:1">
+   <title>ART 406</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#168;C2:0.5:0.71351:1">
+   <title>ART 408</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#154;C2:0.5:0.459227:1">
+   <title>ART 369</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#155;C2:0.5:0.406658:1">
+   <title>ART 370</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#126;C2:0.5:0.56171:1">
+   <title>ART 286</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#175;C2:0.5:0.380707:1">
+   <title>ART 444</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#175;C2:0.5:0.643087:1">
+   <title>ART 446</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#127;C2:0.5:0.793713:1">
+   <title>ART 289</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#128;C2:0.5:0.233856:1">
+   <title>ART 290</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#129;C2:0.5:0.428847:1">
+   <title>ART 291</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#129;C2:0.5:0.622022:1">
+   <title>ART 292</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#129;C2:0.5:0.750805:1">
+   <title>ART 293</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#131;C2:0.5:0.180831:1">
+   <title>ART 294</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#131;C2:0.5:0.564217:1">
+   <title>ART 295</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#162;C2:0.5:0.431548:1">
+   <title>ART 391</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#160;C2:0.500442:0.621951:1">
+   <title>ART 386</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#160;C2:0.500442:0.501829:1">
+   <title>SECTION SUBJECT</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#162;C2:0.5:0.141667:1">
+   <title>SECTION PREDICATE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#163;C2:0.5:0.78366:1">
+   <title>SECTION Objective Complement</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#164;C2:0.5:0.417021:1">
+   <title>SESSION Infinitive Complement</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#161;C2:0.5:0.515191:1">
+   <title>ART 388</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#209;C2:0.5:0.607081:1">
+   <title>ART 576</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#209;C2:0.5:0.665119:1">
+   <title>ART 577</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#209;C2:0.5:0.723157:1">
+   <title>ART 578</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#214;C2:0.5:0.404089:1">
+   <title>ART 599</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#214;C2:0.5:0.524354:1">
+   <title>ART 600</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#194;C2:0.5:0.666667:1">
+   <title>ART 506</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#194;C2:0.5:0.911315:1">
+   <title>ART 507</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.142105:1">
+   <title>ART 508</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.317544:1">
+   <title>ART 509</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.376023:1">
+   <title>ART 510</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.434503:1">
+   <title>ART 511</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.492982:1">
+   <title>ART 512</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.668421:1">
+   <title>ART 513</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#195;C2:0.5:0.726901:1">
+   <title>ART 514</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.198148:1">
+   <title>ART 515</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.321605:1">
+   <title>ART 516</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.383333:1">
+   <title>ART 517</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.445062:1">
+   <title>ART 518</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.568519:1">
+   <title>ART 519</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.630247:1">
+   <title>ART 520</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.691975:1">
+   <title>ART 521</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.815432:1">
+   <title>ART 522</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#196;C2:0.5:0.87716:1">
+   <title>ART 523</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#197;C2:0.5:0.227618:1">
+   <title>ART 524</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#197;C2:0.5:0.344646:1">
+   <title>ART 525</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#197;C2:0.5:0.40316:1">
+   <title>ART 526</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#197;C2:0.5:0.461673:1">
+   <title>ART 527</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#197;C2:0.5:0.578701:1">
+   <title>ART 528</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#197;C2:0.5:0.812756:1">
+   <title>ART 529</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#198;C2:0.5:0.164417:1">
+   <title>ART 530</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#198;C2:0.5:0.348466:1">
+   <title>ART 531</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#198;C2:0.5:0.532515:1">
+   <title>ART 532</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#201;C2:0.5:0.606643:1">
+   <title>ART 542</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#201;C2:0.5:0.723193:1">
+   <title>ART 543</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#202;C2:0.5:0.252909:1">
+   <title>ART 545</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#202;C2:0.5:0.375383:1">
+   <title>ART 546</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#202;C2:0.5:0.559094:1">
+   <title>ART 547</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#202;C2:0.5:0.865279:1">
+   <title>ART 548</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#203;C2:0.5:0.65771:1">
+   <title>ART 551</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#204;C2:0.5:0.309047:1">
+   <title>ART 554</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#204;C2:0.5:0.463267:1">
+   <title>ART 555</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#204;C2:0.5:0.645416:1">
+   <title>ART 557</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#205;C2:0.5:0.433431:1">
+   <title>ART 560</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#205;C2:0.5:0.492082:1">
+   <title>ART 561</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#206;C2:0.5:0.338535:1">
+   <title>ART 564</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#207;C2:0.5:0.266196:1">
+   <title>ART 567</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#207;C2:0.5:0.501767:1">
+   <title>ART 568</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#207;C2:0.5:0.678445:1">
+   <title>ART 569</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#207;C2:0.5:0.796231:1">
+   <title>ART 570</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#208;C2:0.5:0.208283:1">
+   <title>ART 571</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#208;C2:0.5:0.330085:1">
+   <title>ART 572</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#208;C2:0.5:0.451888:1">
+   <title>ART 573</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#208;C2:0.5:0.756395:1">
+   <title>ART 574</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#208;C2:0.5:0.878197:1">
+   <title>ART 575</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#206;C2:0.500529:0.14264:1">
+   <title>CHAPTER SENTENCES CONTAINING ADVERBIAL CLAUSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#211;C2:0.500529:0.828869:1">
+   <title>CHAPTER ELLIPTICAL SENTENCES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#212;C2:0.5:0.223729:1">
+   <title>ART 590</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#212;C2:0.5:0.359322:1">
+   <title>ART 591</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#212;C2:0.5:0.427119:1">
+   <title>ART 592</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#212;C2:0.5:0.833898:1">
+   <title>ART 593</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#213;C2:0.5:0.361277:1">
+   <title>ART 594</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#202;C2:0.5:0.934438:1">
+   <title>ART 549</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#210;C2:0.5:0.665301:1">
+   <title>ART 580</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#176;C2:0.5:0.17397:1">
+   <title>CHAPTER CONTRACTED SENTENCES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#204;C2:0.5:0.516085:1">
+   <title>CHAPTER SENTENCES CONTAINING ADJECTIVE CLAUSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#210;C2:0.5:0.911041:1">
+   <title>ART 582</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#210;C2:0.5:0.990469:1">
+   <title>ART 583</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#135;C2:0.5:0.847914:1">
+   <title>CHAPTER DERIVATION BY MEANS OF TEUTONIC PREFIXES AND SUFFIXES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#135;C2:0.5:0.915209:1">
+   <title>ART 311</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#136;C2:0.5:0.294643:1">
+   <title>ART 312</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#136;C2:0.5:0.422194:1">
+   <title>ART 313</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#136;C2:0.5:0.485969:1">
+   <title>ART 314</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#136;C2:0.5:0.804847:1">
+   <title>ART 315</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#137;C2:0.5:0.320053:1">
+   <title>ART 316</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#137;C2:0.5:0.585657:1">
+   <title>ART 317</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#137;C2:0.5:0.718459:1">
+   <title>ART 318</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#138;C2:0.5:0.486005:1">
+   <title>ART 319</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#138;C2:0.5:0.613232:1">
+   <title>ART 320</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#138;C2:0.5:0.931298:1">
+   <title>ART 321</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#139;C2:0.5:0.385895:1">
+   <title>ART 322</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#139;C2:0.5:0.518962:1">
+   <title>ART 323</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#139;C2:0.5:0.652029:1">
+   <title>ART 324</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#139;C2:0.5:0.785096:1">
+   <title>ART 325</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#139;C2:0.5:0.85163:1">
+   <title>ART 326</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#139;C2:0.5:0.918164:1">
+   <title>ART 327</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#140;C2:0.5:0.868873:1">
+   <title>ART 328</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#141;C2:0.5:0.452555:1">
+   <title>ART 329</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#141;C2:0.5:0.917054:1">
+   <title>ART 330</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#142;C2:0.5:0.359285:1">
+   <title>ART 331</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#142;C2:0.5:0.550734:1">
+   <title>ART 332</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#142;C2:0.5:0.61455:1">
+   <title>ART 333</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#142;C2:0.5:0.869815:1">
+   <title>ART 334</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#143;C2:0.5:0.914739:1">
+   <title>ART 335</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#143;C2:0.5:0.980833:1">
+   <title>ART 336</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#144;C2:0.5:0.360413:1">
+   <title>ART 337</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#144;C2:0.5:0.553836:1">
+   <title>ART 338</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#144;C2:0.5:0.940683:1">
+   <title>ART 339</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#145;C2:0.5:0.457293:1">
+   <title>ART 340</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/Mason's%20English%20Grammar.pdf#146;C2:0.5:0.359795:1">
+   <title>ART 341</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -32701,7 +34077,7 @@ Applications of Digital Electronics</title>
  <folder href="file:///home/jack/doc/math/differential/Introduction to Analysis of the Infinite Volume 1.djvu">
   <title>/home/jack/doc/math/differential/Introduction to Analysis of the Infinite Volume 1.djvu</title>
   <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#0;C2:0.5:0.198233:1">
-   <title>very very very very very very good book</title>
+   <title>very very very very very very very good book</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -33437,7 +34813,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#116;C2:0.5:0.490673:1">
-   <title>ART 128</title>
+   <title>ART 128 important</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -33781,7 +35157,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#139;C2:0.5:0.832405:1">
-   <title>ART 156</title>
+   <title>ART 156 used by ART 166</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -33853,7 +35229,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#151;C2:0.5:0.753898:1">
-   <title>ART 166 important</title>
+   <title>ART 166 That's just a conclusion</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -34382,6 +35758,22 @@ Applications of Digital Electronics</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#94;C2:0.5:0.334405:1">
    <title>ART 105 important. Definition of transcendental</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#103;C2:0.5:0.712426:1">
+   <title>ART 112 About CHARACTERISTIC and MANTISSA </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#148;C2:0.5:0.174251:1">
+   <title>ART 164</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -35868,7 +37260,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#188;C2:0.5:0.18454:1">
-   <title>CHAPTER THE PARTICLE</title>
+   <title>CHAPTER THE PARTICLE -- important</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -35981,6 +37373,14 @@ Applications of Digital Electronics</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#128;C2:0.5:0.367914:1">
    <title>PART I.I The Syllabary, Pronunciation, Accent</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#210;C2:0.500422:0.237379:1">
+   <title>#91-1</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36150,6 +37550,14 @@ Applications of Digital Electronics</title>
   <title>/home/jack/doc/math/history/Carl B. Boyer, Uta C. Merzbach, Isaac Asimov - A history of mathematics-Wiley (1991).djvu</title>
   <bookmark href="file:///home/jack/doc/math/history/Carl%20B.%20Boyer,%20Uta%20C.%20Merzbach,%20Isaac%20Asimov%20-%20A%20history%20of%20mathematics-Wiley%20(1991).djvu#0;C2:0.5:0.19469:1">
    <title>should be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/history/Carl%20B.%20Boyer,%20Uta%20C.%20Merzbach,%20Isaac%20Asimov%20-%20A%20history%20of%20mathematics-Wiley%20(1991).djvu#0;C2:0.5:0.488614:1">
+   <title>very very very good book</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36667,7 +38075,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#175;C2:0.5:0.601824:1">
-   <title>7.7</title>
+   <title>7.7 Line Input and Output</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36683,7 +38091,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#185;C2:0.5:0.92303:1">
-   <title>8.4</title>
+   <title>8.4 Random Access Lseek</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36715,7 +38123,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#201;C2:0.5:0.440174:1">
-   <title>A1</title>
+   <title>A 1 Introduction</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36723,7 +38131,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#201;C2:0.5:0.750155:1">
-   <title>A2</title>
+   <title>A 2 Lexical Conventions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36731,7 +38139,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#202;C2:0.5:0.843484:1">
-   <title>A 2.5</title>
+   <title>A 2.5 Constants</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36739,7 +38147,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#204;C2:0.5:0.859164:1">
-   <title>A 3</title>
+   <title>A 3 Syntax Notation</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36747,7 +38155,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#205;C2:0.5:0.282288:1">
-   <title>A 4</title>
+   <title>A 4 Meaning of Identifers</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36755,7 +38163,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#207;C2:0.5:0.170043:1">
-   <title>A 5</title>
+   <title>A 5 Objects and Lvalues</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36763,7 +38171,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#207;C2:0.5:0.354205:1">
-   <title>A 6</title>
+   <title>A 6 Conversions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36771,7 +38179,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#210;C2:0.5:0.159314:1">
-   <title>A 7</title>
+   <title>A 7 Expressions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36779,7 +38187,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#215;C2:0.5:0.191739:1">
-   <title>A 7.5</title>
+   <title>A 7.5 Casts</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36787,7 +38195,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#215;C2:0.5:0.315043:1">
-   <title>A 7.6</title>
+   <title>A 7.6 Multiplicative Operators</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36795,7 +38203,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#215;C2:0.5:0.684957:1">
-   <title>A 7.7</title>
+   <title>A 7.7 Additive Operators</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36803,7 +38211,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#216;C2:0.5:0.351615:1">
-   <title>A 7.8</title>
+   <title>A 7.8 Shift Operators</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36811,7 +38219,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#216;C2:0.5:0.595369:1">
-   <title>A 7.9</title>
+   <title>A 7.9 Relational Operators</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36819,7 +38227,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#217;C2:0.5:0.2:1">
-   <title>A 7.10</title>
+   <title>A 7.10 Equality Operatora</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36835,7 +38243,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#220;C2:0.5:0.195531:1">
-   <title>A 8</title>
+   <title>A 8 Declarations</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36843,7 +38251,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#232;C2:0.5:0.322278:1">
-   <title>A 9</title>
+   <title>A 9 Statements</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36851,7 +38259,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#235;C2:0.5:0.341284:1">
-   <title>A 10</title>
+   <title>A 10 External Declaations</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36859,7 +38267,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#237;C2:0.5:0.658745:1">
-   <title>A 11</title>
+   <title>A 11 Scope and Linkage</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -36867,7 +38275,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#238;C2:0.5:0.763682:1">
-   <title>A 12</title>
+   <title>A 12 Preprocessing</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37067,7 +38475,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#35;C2:0.5:0.247151:1">
-   <title>#36-1</title>
+   <title>Exercise 1-13</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37099,7 +38507,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#42;C2:0.5:0.159204:1">
-   <title>#43-1</title>
+   <title>Exercise 1-17</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37107,7 +38515,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#45;C2:0.5:0.495232:1">
-   <title>#46</title>
+   <title>Exercise 1-20</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37115,7 +38523,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#63;C2:0.5:0.64465:1">
-   <title>#64</title>
+   <title>2.12 Precedence and Order of Evaluation</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37123,7 +38531,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#62;C2:0.5:0.590087:1">
-   <title>#63</title>
+   <title>2.11</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37131,7 +38539,711 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#61;C2:0.5:0.199602:1">
-   <title>#62</title>
+   <title>2.10 Assignment Operators and Expressions</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#32;C2:0.5:0.887856:1">
+   <title>Exercise 1-11</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#60;C2:0.5:0.841846:1">
+   <title>Exercise 2-6</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#99;C2:0.5:0.465937:1">
+   <title>Exercise 4-12</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#132;C2:0.5:0.762936:1">
+   <title>Exercise 5-14</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#121;C2:0.5:0.78006:1">
+   <title>Exercise 5-7</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#53;C2:0.5:0.586353:1">
+   <title>Exercise 2-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#71;C2:0.5:0.122498:1">
+   <title>Exercise 3-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#94;C2:0.5:0.740518:1">
+   <title>Exercise 4-11</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#129;C2:0.5:0.54012:1">
+   <title>Exercise 5-12</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#38;C2:0.5:0.301108:1">
+   <title>Exercise 1-15</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#24;C2:0.5:0.491965:1">
+   <title>Exercise 1-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#47;C2:0.5:0.848321:1">
+   <title>Exercise 2-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#59;C2:0.5:0.423687:1">
+   <title>Exercise 2-4</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#62;C2:0.5:0.529519:1">
+   <title>Exercise 2-9</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#75;C2:0.5:0.570494:1">
+   <title>Exercise 3-4</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#57;C2:0.5:0.463881:1">
+   <title>Exercise 2-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#74;C2:0.5:0.43156:1">
+   <title>Exercise 3-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#108;C2:0.5:0.717697:1">
+   <title>Exercise 5-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#123;C2:0.5:0.952524:1">
+   <title>Exercise 5-8</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#147;C2:0.5:0.640314:1">
+   <title>Exercise 6-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#170;C2:0.5:0.894387:1">
+   <title>Exercise 7-4</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#41;C2:0.5:0.370259:1">
+   <title>about '\0' important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#28;C2:0.5:0.80423:1">
+   <title>Exercise 1-6</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#27;C2:0.5:0.224242:1">
+   <title>1.5.1 File Copying</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#28;C2:0.5:0.911178:1">
+   <title>1.5.2 Character Counting</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#30;C2:0.5:0.357055:1">
+   <title>1.5.3 Line Counting</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#31;C2:0.5:0.441264:1">
+   <title>1.5.4 Word Counting</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#31;C2:0.5:0.202743:1">
+   <title>Exercise 1-8</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#84;C2:0.5:0.575334:1">
+   <title>Exercise 4-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#102;C2:0.5:0.239808:1">
+   <title>Exercise 4-14</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#118;C2:0.5:0.273117:1">
+   <title>Exercise 5-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#53;C2:0.5:0.888285:1">
+   <title>about atoi important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#69;C2:0.5:0.482261:1">
+   <title>Exercise 3-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#201;C2:0.5:0.873084:1">
+   <title>A 2.1 Tokens</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#202;C2:0.5:0.22938:1">
+   <title>A 2.2 Comments</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#202;C2:0.5:0.349789:1">
+   <title>A 2.3 Identifiers</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#202;C2:0.5:0.530403:1">
+   <title>A 2.4 Keywords</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#210;C2:0.5:0.583636:1">
+   <title>A 7.1 Pointer Generation</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#210;C2:0.5:0.765455:1">
+   <title>A 7.2 Primary Expressions</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#211;C2:0.5:0.30945:1">
+   <title>A 7.3 Postfix Expressions</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#211;C2:0.5:0.556516:1">
+   <title>A 7.3.1 Array References</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#211;C2:0.5:0.680049:1">
+   <title>A 7.3.2 Function Calls</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#212;C2:0.5:0.835366:1">
+   <title>A 7.3.3 Structure References</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#213;C2:0.5:0.441846:1">
+   <title>A 7.3.4 Postfix Incrementation</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#213;C2:0.5:0.564923:1">
+   <title>A 7.4 Unary Operators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#213;C2:0.5:0.749538:1">
+   <title>A 7.4.1 Prefix Incrementation Operators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#213;C2:0.5:0.872615:1">
+   <title>A 7.4.2 Address Operator</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#214;C2:0.5:0.170821:1">
+   <title>A 7.4.3 Indirection Operator</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#214;C2:0.5:0.292401:1">
+   <title>A 7.4.4 Unary Plus Operator</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#214;C2:0.5:0.413982:1">
+   <title>A 7.4.5 Unary Minus Operator</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#214;C2:0.5:0.535562:1">
+   <title>#215-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#214;C2:0.5:0.657143:1">
+   <title>#215-4</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#214;C2:0.5:0.778723:1">
+   <title>#215-5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#63;C2:0.5:0.52461:1">
+   <title>Exercise 2-10</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#203;C2:0.5:0.13894:1">
+   <title>A 2.5.1 Integer Constants</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#203;C2:0.5:0.50457:1">
+   <title>A 2.5.2 Character Constants</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#204;C2:0.5:0.288929:1">
+   <title>A 2.5.3 Floating Constants</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#204;C2:0.5:0.471411:1">
+   <title>A 2.5.4 Enumeration Constants</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#204;C2:0.5:0.532238:1">
+   <title>A 2.6 String Literals</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#90;C2:0.5:0.530377:1">
+   <title>Exercise 4-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#82;C2:0.5:0.165652:1">
+   <title>Exercise 4-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#125;C2:0.5:0.541768:1">
+   <title>Exercise 5-9</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#220;C2:0.5:0.619249:1">
+   <title>A 8.1 Storage Class Specifiers</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#221;C2:0.5:0.337153:1">
+   <title>A 8.2 Type Specifiers</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#222;C2:0.5:0.174939:1">
+   <title>A 8.3 Structure and Union Declarations</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#224;C2:0.5:0.917816:1">
+   <title>A 8.4 Enumberation</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#225;C2:0.5:0.631231:1">
+   <title>A 8.5 Declarators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#226;C2:0.5:0.164466:1">
+   <title>A 8.6 Meaning of Declarators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#226;C2:0.5:0.464586:1">
+   <title>A 8.6.1 Pointer Declarators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#226;C2:0.5:0.884754:1">
+   <title>A 8.6.2 Array Declarators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#227;C2:0.5:0.662236:1">
+   <title>A 8.6.3 Function Declarators</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#228;C2:0.5:0.916117:1">
+   <title>A 8.7 Initialization</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#230;C2:0.5:0.828049:1">
+   <title>A 8.8 Type Names</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#231;C2:0.5:0.485835:1">
+   <title>A 8.9 Typedef</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#231;C2:0.5:0.907776:1">
+   <title>A 8.10 Type Equivalence</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#205;C2:0.5:0.488302:1">
+   <title>A 4.1 Storage Class</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#205;C2:0.5:0.788242:1">
+   <title>A 4.2 Basic Types</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#206;C2:0.5:0.678422:1">
+   <title>A 4.3 Derived Types</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#206;C2:0.5:0.857741:1">
+   <title>A 4.4 Type Qualifiers</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#176;C2:0.5:0.822235:1">
+   <title>Exercise 7-6</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#179;C2:0.5:0.68163:1">
+   <title>Exercise 7-9</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#190;C2:0.5:0.167069:1">
+   <title>Exercise 8-3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#195;C2:0.5:0.937312:1">
+   <title>Exercise 8-5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#200;C2:0.5:0.296988:1">
+   <title>Exercise 8-6</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#154;C2:0.5:0.410757:1">
+   <title>Exercise 6-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#156;C2:0.5:0.864242:1">
+   <title>Exercise 6-5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#166;C2:0.5:0.400237:1">
+   <title>Exercise 7-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu#164;C2:0.5:0.459299:1">
+   <title>Exercise 7-1</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37206,7 +39318,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/higheralgebra/Leonhard%20Euler,%20Scott%20Hecht%20(editor)%20-%20Elements%20of%20Algebra%20(2015).pdf#336;C2:0.5:0.198925:1">
-   <title>PART II Containing the Analysis of Indeeterminate Quantities</title>
+   <title>PART II Containing the Analysis of Indeterminate Quantities</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -41037,6 +43149,46 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
+  <bookmark href="file:///home/jack/doc/math/higheralgebra/Leonhard%20Euler,%20Scott%20Hecht%20(editor)%20-%20Elements%20of%20Algebra%20(2015).pdf#347;C2:0.5:0.359556:1">
+   <title>#310</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/higheralgebra/Leonhard%20Euler,%20Scott%20Hecht%20(editor)%20-%20Elements%20of%20Algebra%20(2015).pdf#348;C2:0.5:0.412506:1">
+   <title>#311</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/higheralgebra/Leonhard%20Euler,%20Scott%20Hecht%20(editor)%20-%20Elements%20of%20Algebra%20(2015).pdf#350;C2:0.5:0.851236:1">
+   <title>#313</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/higheralgebra/Leonhard%20Euler,%20Scott%20Hecht%20(editor)%20-%20Elements%20of%20Algebra%20(2015).pdf#355;C2:0.5:0.309128:1">
+   <title>#318-1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/higheralgebra/Leonhard%20Euler,%20Scott%20Hecht%20(editor)%20-%20Elements%20of%20Algebra%20(2015).pdf#357;C2:0.5:0.364599:1">
+   <title>#320</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
  </folder>
  <folder href="file:///home/jack/doc/language/english/English grammar : including grammatical analysis_10.pdf">
   <title>/home/jack/doc/language/english/English grammar : including grammatical analysis_10.pdf</title>
@@ -43733,6 +45885,622 @@ Applications of Digital Electronics</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/latin/A%20Latin%20grammar.pdf#135;C2:0.5:0.161236:1">
    <title>GROUP THE NOMINATIVE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/language/english/A new English grammar, logical and historical Vol 1.pdf">
+  <title>/home/jack/doc/language/english/A new English grammar, logical and historical Vol 1.pdf</title>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#0;C2:0.5:0.201699:1">
+   <title>should be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#10;C2:0.5:0.384925:1">
+   <title>PREFACE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#20;C2:0.5:0.263158:1">
+   <title>CONTENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#30;C2:0.5:0.233855:1">
+   <title>PART INTRODUCTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#41;C2:0.5:0.189824:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#48;C2:0.5:0.232877:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#78;C2:0.5:0.183953:1">
+   <title>CHAPTER PARTS OF SPEECH IN DETAIL</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#182;C2:0.5:0.379648:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#184;C2:0.5:0.330724:1">
+   <title>CHAPTER SENTENTCES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#205;C2:0.5:0.232877:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#233;C2:0.5:0.135029:1">
+   <title>CHAPTER DIVISION AND METHODS OF GRAMMAR</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#240;C2:0.5:0.428571:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#255;C2:0.5:0.2818:1">
+   <title>CHAPTER PHONETICS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#267;C2:0.5:0.575342:1">
+   <title>CHAPTER LAWS OF SOUND-CHANGE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#269;C2:0.5:0.526419:1">
+   <title>CHAPTER OLD-ENGLISH SOUNDS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#281;C2:0.5:0.2818:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#296;C2:0.5:0.135029:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#312;C2:0.5:0.477495:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#330;C2:0.5:0.2818:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#351;C2:0.5:0.2818:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#360;C2:0.5:0.67319:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#388;C2:0.5:0.67319:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#393;C2:0.5:0.477495:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#457;C2:0.5:0.232877:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#473;C2:0.5:0.428571:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#479;C2:0.5:0.624266:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#30;C2:0.5:0.380626:1">
+   <title>CHAPTER </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#255;C2:0.5:0.183953:1">
+   <title>PART PHONOLOGY</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#330;C2:0.5:0.183953:1">
+   <title>PART ACCIDENCE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#197;C2:0.5:0.170254:1">
+   <title>#168</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#198;C2:0.5:0.203523:1">
+   <title>#169</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#238;C2:0.5:0.424658:1">
+   <title>#209</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#0;C2:0.5:0.306325:1">
+   <title>very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#258;C2:0.5:0.688845:1">
+   <title>ART 666 important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#179;C2:0.5:0.813601:1">
+   <title>#150</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#116;C2:0.5:0.682697:1">
+   <title>#87</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/english/A%20new%20English%20grammar,%20logical%20and%20historical%20Vol%201.pdf#120;C2:0.5:0.8235:1">
+   <title>#91</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/language/english/Elementary Lessons In Historical English Grammar.pdf">
+  <title>/home/jack/doc/language/english/Elementary Lessons In Historical English Grammar.pdf</title>
+  <bookmark href="file:///home/jack/doc/language/english/Elementary%20Lessons%20In%20Historical%20English%20Grammar.pdf#0;C2:0.5:0.201987:1">
+   <title>may be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/computerScience/c/C programming principles  practice (Allan, Boris) (Z-Library).pdf">
+  <title>/home/jack/doc/computerScience/c/C programming principles  practice (Allan, Boris) (Z-Library).pdf</title>
+  <bookmark href="file:///home/jack/doc/computerScience/c/C%20programming%20principles%20%20practice%20(Allan,%20Boris)%20(Z-Library).pdf#0;C2:0.5:0.176951:1">
+   <title>may be very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/computerScience/c/Data Structures and C Programs (Christopher J. Van Wyk) (Z-Library).pdf">
+  <title>/home/jack/doc/computerScience/c/Data Structures and C Programs (Christopher J. Van Wyk) (Z-Library).pdf</title>
+  <bookmark href="file:///home/jack/doc/computerScience/c/Data%20Structures%20and%20C%20Programs%20(Christopher%20J.%20Van%20Wyk)%20(Z-Library).pdf#0;C2:0.5:0.203644:1">
+   <title>may be very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/math/calculus/Elements of the Differential and Integral Calculus (Arthur Sherburne Hardy) (Z-Library).djvu">
+  <title>/home/jack/doc/math/calculus/Elements of the Differential and Integral Calculus (Arthur Sherburne Hardy) (Z-Library).djvu</title>
+  <bookmark href="file:///home/jack/doc/math/calculus/Elements%20of%20the%20Differential%20and%20Integral%20Calculus%20(Arthur%20Sherburne%20Hardy)%20(Z-Library).djvu#0;C2:0.5:0.137431:1">
+   <title>may be very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/math/Asymptotic estimates of Stirling numbers (Temme N.M.) (Z-Library).djvu">
+  <title>/home/jack/doc/math/Asymptotic estimates of Stirling numbers (Temme N.M.) (Z-Library).djvu</title>
+  <bookmark href="file:///home/jack/doc/math/Asymptotic%20estimates%20of%20Stirling%20numbers%20(Temme%20N.M.)%20(Z-Library).djvu#0;C2:0.5:0.186449:1">
+   <title>very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Asymptotic%20estimates%20of%20Stirling%20numbers%20(Temme%20N.M.)%20(Z-Library).djvu#9;C2:0.5:0.950076:1">
+   <title>References</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/math/differential/Calculus of finite differences (Jordan Ch.) (Z-Library).djvu">
+  <title>/home/jack/doc/math/differential/Calculus of finite differences (Jordan Ch.) (Z-Library).djvu</title>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#0;C2:0.5:0.211073:1">
+   <title>should be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#0;C2:0.5:0.384083:1">
+   <title>that's a book which should be a good book for using Knuth's book...</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#8;C2:0.5:0.247849:1">
+   <title>CONTENT</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#4;C2:0.5:0.234079:1">
+   <title>PREFACE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#16;C2:0.5:0.256203:1">
+   <title>NOTATIONS AND DEFINITIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#20;C2:0.5:0.29096:1">
+   <title>CHAPTER I</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#64">
+   <title>CHAPTER II</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#119">
+   <title>CHAPTER III</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#161;C2:0.5:0.206268:1">
+   <title>CHAPTER IV</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#249">
+   <title>CHAPTER V</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#307">
+   <title>CHAPTER VI</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#64;C2:0.5:0.880615:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#91;C2:0.5:0.34095:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#138;C2:0.5:0.49852:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#141;C2:0.5:0.284949:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#141;C2:0.5:0.838192:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#142;C2:0.5:0.411939:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#153;C2:0.5:0.202646:1">
+   <title>stirling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#81;C2:0.5:0.63762:1">
+   <title>#82</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#93;C2:0.5:0.83433:1">
+   <title>#94</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#64;C2:0.5:0.399527:1">
+   <title>#65-2</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#107;C2:0.5:0.883541:1">
+   <title>#108</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#106;C2:0.5:0.464328:1">
+   <title>#107</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#102;C2:0.5:0.638247:1">
+   <title>#103</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#99;C2:0.5:0.518122:1">
+   <title>#100</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#80;C2:0.5:0.628994:1">
+   <title>#81</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#79;C2:0.5:0.507463:1">
+   <title>#80</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Calculus%20of%20finite%20differences%20(Jordan%20Ch.)%20(Z-Library).djvu#72;C2:0.5:0.180851:1">
+   <title>#73</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/math/calculus/Advanced calculus.pdf">
+  <title>/home/jack/doc/math/calculus/Advanced calculus.pdf</title>
+  <bookmark href="file:///home/jack/doc/math/calculus/Advanced%20calculus.pdf#0;C2:0.5:0.222819:1">
+   <title>should be very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/calculus/Advanced%20calculus.pdf#6;C2:0.5:0.221647:1">
+   <title>#7</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/calculus/Advanced%20calculus.pdf#8;C2:0.5:0.280368:1">
+   <title>#9</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
