@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel dbusName="okular" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+<xbel xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" dbusName="okular" xmlns:kdepriv="http://www.kde.org/kdepriv">
  <folder href="file:///home/jack/doc/program/java/Spring Security in Action (Laurentiu Spilca) (Z-Library).pdf">
   <title>/home/jack/doc/program/java/Spring Security in Action (Laurentiu Spilca) (Z-Library).pdf</title>
   <bookmark href="file:///home/jack/doc/program/java/Spring%20Security%20in%20Action%20(Laurentiu%20Spilca)%20(Z-Library).pdf#290;C2:0.546352:0.225382:1">
@@ -37396,7 +37396,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#189;C2:0.5:0.341299:1">
-   <title>GA</title>
+   <title>PARTICLE GA</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37660,7 +37660,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#84;C2:0.5:0.754019:1">
-   <title>#85</title>
+   <title>Expression of Emotion</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37668,7 +37668,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#79;C2:0.5:0.212755:1">
-   <title>#80</title>
+   <title>CONVERSATIONAL PHRASES AND SENTENCES</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37676,7 +37676,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#88;C2:0.5:0.158092:1">
-   <title>#89</title>
+   <title>Travelling</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37684,7 +37684,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#90;C2:0.5:0.771168:1">
-   <title>#91</title>
+   <title>By Road</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37692,7 +37692,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#92;C2:0.5:0.419614:1">
-   <title>#93</title>
+   <title>By Steamboat</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37700,7 +37700,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#93;C2:0.5:0.699357:1">
-   <title>#94</title>
+   <title>Arrival</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37708,7 +37708,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#94;C2:0.5:0.496785:1">
-   <title>#95</title>
+   <title>The Hotel</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37716,7 +37716,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#97;C2:0.5:0.478564:1">
-   <title>#98</title>
+   <title>Meals</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37724,7 +37724,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#101;C2:0.5:0.686495:1">
-   <title>#102</title>
+   <title>Health</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37732,7 +37732,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#100;C2:0.5:0.835477:1">
-   <title>#101</title>
+   <title>The Weather</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37740,7 +37740,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#102;C2:0.5:0.698285:1">
-   <title>#103</title>
+   <title>Correspondence</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37748,7 +37748,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#104;C2:0.5:0.507503:1">
-   <title>#105</title>
+   <title>Introductions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37756,7 +37756,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#105;C2:0.5:0.358521:1">
-   <title>#106</title>
+   <title>In Town</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37764,7 +37764,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#108;C2:0.5:0.715434:1">
-   <title>#109</title>
+   <title>Shopping</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37772,7 +37772,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#110;C2:0.5:0.524652:1">
-   <title>#111</title>
+   <title>Commercial and Trading</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37780,7 +37780,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#113;C2:0.5:0.131297:1">
-   <title>#114</title>
+   <title>Changing Money</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -37805,6 +37805,134 @@ Applications of Digital Electronics</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#136;C2:0.5:0.20294:1">
    <title>SECTION Number</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#189;C2:0.5:0.89513:1">
+   <title>PARTICLE Ka</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#190;C2:0.5:0.386552:1">
+   <title>PARTICLE Kara</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#190;C2:0.5:0.718594:1">
+   <title>PARTICLE Made</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#190;C2:0.5:0.939956:1">
+   <title>PARTICLE Mo</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#191;C2:0.5:0.376038:1">
+   <title>PARTICLE Ni</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#192;C2:0.5:0.144162:1">
+   <title>PARTICLE No</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#192;C2:0.5:0.476204:1">
+   <title>PARTICLE Shi</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#192;C2:0.5:0.697565:1">
+   <title>PARTICLE To</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#193;C2:0.5:0.465689:1">
+   <title>PARTICLE Wa</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#194;C2:0.5:0.510515:1">
+   <title>PARTICLE Wo/o</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#195;C2:0.5:0.112618:1">
+   <title>PARTICLE Ya</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#195;C2:0.5:0.389319:1">
+   <title>PARTICLE Yara</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#195;C2:0.5:0.610681:1">
+   <title>PARTICLE Ye</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#195;C2:0.5:0.887382:1">
+   <title>PARTICLE Yo</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#196;C2:0.5:0.323464:1">
+   <title>PARTICLE Yori</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/language/niho/Japanese%20Self-Taught%20and%20Grammar%20(Thimms%20System,%20in%20Roman%20Characters)%20(W.%20J.%20S.%20Shand%20(ed.))%20(Z-Library).pdf#196;C2:0.5:0.434145:1">
+   <title>PARTICLE Zo</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50902,7 +51030,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#294;C2:0.5:0.654057:1">
-   <title>#295</title>
+   <title>ART 441</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50926,7 +51054,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#23;C2:0.5:0.191808:1">
-   <title>#24</title>
+   <title>ART 5</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50934,7 +51062,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#23;C2:0.5:0.64435:1">
-   <title>#24-1</title>
+   <title>ART 6</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50942,7 +51070,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#24;C2:0.5:0.202542:1">
-   <title>#25</title>
+   <title>ART 7 important</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50950,7 +51078,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#24;C2:0.5:0.315537:1">
-   <title>#25-1</title>
+   <title>ART 8</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50958,7 +51086,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#24;C2:0.5:0.485028:1">
-   <title>#25-2</title>
+   <title>ART 9</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50966,7 +51094,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#24;C2:0.5:0.598023:1">
-   <title>#25-3</title>
+   <title>ART 10</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50974,7 +51102,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#24;C2:0.5:0.824011:1">
-   <title>#25-4</title>
+   <title>ART 11</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50982,7 +51110,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#25;C2:0.5:0.382203:1">
-   <title>#26</title>
+   <title>ART 12</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50990,7 +51118,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#25;C2:0.5:0.777684:1">
-   <title>#26-1</title>
+   <title>ART 13</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -50998,7 +51126,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#26;C2:0.5:0.222881:1">
-   <title>#27</title>
+   <title>ART 14</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51006,7 +51134,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#26;C2:0.5:0.279379:1">
-   <title>#27-1</title>
+   <title>ART 15</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51014,7 +51142,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#26;C2:0.5:0.44887:1">
-   <title>#27-2</title>
+   <title>ART 16</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51022,7 +51150,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#26;C2:0.5:0.84435:1">
-   <title>#27-3</title>
+   <title>ART 17</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51030,7 +51158,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#27;C2:0.5:0.233051:1">
-   <title>#28</title>
+   <title>ART 18</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51038,7 +51166,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#27;C2:0.5:0.402542:1">
-   <title>#28-1</title>
+   <title>ART 19</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51046,7 +51174,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#27;C2:0.5:0.515537:1">
-   <title>#28-2</title>
+   <title>ART 20</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51054,7 +51182,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#27;C2:0.5:0.628531:1">
-   <title>#28-3</title>
+   <title>ART 21</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51062,7 +51190,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#28;C2:0.5:0.525706:1">
-   <title>#29</title>
+   <title>ART 22</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51070,7 +51198,31 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#28;C2:0.5:0.864689:1">
-   <title>#29-1</title>
+   <title>ART 23</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#86;C2:0.5:0.308683:1">
+   <title>ART 120</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#41;C2:0.5:0.368563:1">
+   <title>ART 53 may very important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#69;C2:0.5:0.502695:1">
+   <title>ART 88 can not understand why the equation can took place</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -51519,9 +51671,9 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
  </folder>
- <folder href="file:///home/jack/doc/math/differential/Institutiones Calculi differentialis.pdf">
-  <title>/home/jack/doc/math/differential/Institutiones Calculi differentialis.pdf</title>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#24;C2:0.5:0.222031:1">
+ <folder href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf">
+  <title>/home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf</title>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#24;C2:0.5:0.222031:1">
    <title>INDEX</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51529,7 +51681,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#30;C2:0.502976:0.381256:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#30;C2:0.502976:0.381256:1">
    <title>CAPUT I DE DIFFERENTIIS FINITIS</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51537,7 +51689,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#66;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#66;C2:0.5:0.222277:1">
    <title>CAPUT II DE USU DIFFERENTIARUM IN DOCTRINA SERIERUM</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51545,7 +51697,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#0;C2:0.571429:0.224239:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#0;C2:0.571429:0.224239:1">
    <title>very very very very very good book</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51553,7 +51705,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#97;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#97;C2:0.5:0.222277:1">
    <title>CAPUT III DE INFINITIS ATQUE INFINITE PARUIS</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51561,7 +51713,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#125;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#125;C2:0.5:0.222277:1">
    <title>CAPUT IV DE DIFFERENTIALIUM CUIUSQUE ORDINIS NATURA</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51569,7 +51721,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#178;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#178;C2:0.5:0.222277:1">
    <title>CAPUT VI</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51577,7 +51729,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#205;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#205;C2:0.5:0.222277:1">
    <title>CAPUT VII</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51585,7 +51737,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#268;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#268;C2:0.5:0.222277:1">
    <title>CAPUT IX</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51593,7 +51745,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#231;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#231;C2:0.5:0.222277:1">
    <title>CAPUT VIII</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51601,7 +51753,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#151;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#151;C2:0.5:0.222277:1">
    <title>CAPUT V</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51609,7 +51761,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#308;C2:0.499699:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#308;C2:0.499699:0.222277:1">
    <title>#309</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51617,7 +51769,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#331;C2:0.499699:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#331;C2:0.499699:0.222277:1">
    <title>#332</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51625,7 +51777,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#359;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#359;C2:0.5:0.222277:1">
    <title>#360</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51633,7 +51785,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#386;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#386;C2:0.5:0.222277:1">
    <title>#387</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51641,7 +51793,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#430;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#430;C2:0.5:0.222277:1">
    <title>#431</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51649,7 +51801,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#468;C2:0.499695:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#468;C2:0.499695:0.222277:1">
    <title>#469</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51657,7 +51809,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#506;C2:0.499695:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#506;C2:0.499695:0.222277:1">
    <title>#507</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51665,7 +51817,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#542;C2:0.499695:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#542;C2:0.499695:0.222277:1">
    <title>#543</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51673,7 +51825,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#573;C2:0.499692:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#573;C2:0.499692:0.222277:1">
    <title>#574</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51681,7 +51833,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#605;C2:0.499692:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#605;C2:0.499692:0.222277:1">
    <title>#606</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51689,7 +51841,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#646;C2:0.499692:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#646;C2:0.499692:0.222277:1">
    <title>#647</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51697,7 +51849,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#714;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#714;C2:0.5:0.222277:1">
    <title>#715</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51705,7 +51857,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#739;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#739;C2:0.5:0.222277:1">
    <title>#740</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51713,7 +51865,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#765;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#765;C2:0.5:0.222277:1">
    <title>#766</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51721,7 +51873,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#796;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#796;C2:0.5:0.222277:1">
    <title>#797</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51729,7 +51881,7 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#835;C2:0.5:0.222277:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#835;C2:0.5:0.222277:1">
    <title>#836</title>
    <info>
     <metadata owner="http://freedesktop.org">
@@ -51737,8 +51889,24 @@ Applications of Digital Electronics</title>
     </metadata>
    </info>
   </bookmark>
-  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20Calculi%20differentialis.pdf#880;C2:0.5:0.247301:1">
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#880;C2:0.5:0.247301:1">
    <title>#881</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#49;C2:0.5:0.521385:1">
+   <title>ART 21 important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones_Calculi_Differentialis.pdf#179;C2:0.5:0.411843:1">
+   <title>ART 180 important</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
