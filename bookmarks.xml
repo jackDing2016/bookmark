@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" dbusName="okular" xmlns:kdepriv="http://www.kde.org/kdepriv">
+<xbel dbusName="okular" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
  <folder href="file:///home/jack/doc/program/java/Spring Security in Action (Laurentiu Spilca) (Z-Library).pdf">
   <title>/home/jack/doc/program/java/Spring Security in Action (Laurentiu Spilca) (Z-Library).pdf</title>
   <bookmark href="file:///home/jack/doc/program/java/Spring%20Security%20in%20Action%20(Laurentiu%20Spilca)%20(Z-Library).pdf#290;C2:0.546352:0.225382:1">
@@ -51223,6 +51223,310 @@ Applications of Digital Electronics</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#69;C2:0.5:0.502695:1">
    <title>ART 88 can not understand why the equation can took place</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#252;C2:0.5:0.150136:1">
+   <title>ART 368</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#248;C2:0.5:0.588466:1">
+   <title>ART 360</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#245;C2:0.5:0.483763:1">
+   <title>ART 356</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#225;C2:0.5:0.483763:1">
+   <title>ART 330</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#205;C2:0.5:0.707071:1">
+   <title>ART 306</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#204;C2:0.5:0.59147:1">
+   <title>ART 305</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#201;C2:0.5:0.749719:1">
+   <title>ART 298</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#200;C2:0.5:0.353535:1">
+   <title>CAPUT VII METHODS GENERALIS INTEGRALIA QUAECUNQUE PROXIME INVENIENDI</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#201;C2:0.5:0.91807:1">
+   <title>ART 299</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#202;C2:0.5:0.248036:1">
+   <title>ART 300</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#202;C2:0.5:0.416386:1">
+   <title>ART 301</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#202;C2:0.5:0.69697:1">
+   <title>ART 302</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#203;C2:0.5:0.30752:1">
+   <title>ART 303</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#203;C2:0.5:0.81257:1">
+   <title>ART 304</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#205;C2:0.5:0.875421:1">
+   <title>ART 307</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#206;C2:0.5:0.429854:1">
+   <title>ART 308</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#207;C2:0.5:0.264871:1">
+   <title>ART 309</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#207;C2:0.5:0.657688:1">
+   <title>ART 310</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#208;C2:0.5:0.268238:1">
+   <title>ART 311</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#208;C2:0.5:0.548822:1">
+   <title>ART 312</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#208;C2:0.5:0.773288:1">
+   <title>ART 313</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#209;C2:0.5:0.888889:1">
+   <title>ART 314</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#210;C2:0.5:0.387205:1">
+   <title>ART 315</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#210;C2:0.5:0.836139:1">
+   <title>ART 316</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#211;C2:0.5:0.222222:1">
+   <title>ART 317</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#213;C2:0.5:0.67789:1">
+   <title>ART 318</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#214;C2:0.5:0.176207:1">
+   <title>ART 319</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#214;C2:0.5:0.400673:1">
+   <title>ART 320</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#215;C2:0.5:0.23569:1">
+   <title>ART 321</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#216;C2:0.5:0.239057:1">
+   <title>ART 322</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#217;C2:0.5:0.523008:1">
+   <title>ART 323</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#218;C2:0.5:0.750842:1">
+   <title>ART 324</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#220;C2:0.5:0.420875:1">
+   <title>ART 326</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#220;C2:0.5:0.701459:1">
+   <title>ART 327</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#222;C2:0.5:0.424412:1">
+   <title>ART 328</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#223;C2:0.5:0.593505:1">
+   <title>ART 329</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#219;C2:0.5:0.361392:1">
+   <title>ART 325</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/differential/Institutiones%20calculi%20integralis%20volumn%20first.pdf#200;C2:0.5:0.409652:1">
+   <title>should be very important</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
