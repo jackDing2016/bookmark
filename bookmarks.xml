@@ -6459,6 +6459,14 @@ Environment</title>
     </metadata>
    </info>
   </bookmark>
+  <bookmark href="file:///home/jack/doc/math/Concrete%20Mathematics%20A%20Foundation%20for%20Computer%20Science%20(2nd%20Edition)%20(Ronald%20L.%20Graham,%20Donald%20E.%20Knuth%20etc.)%20(Z-Library).pdf#276;C2:0.5:0.530779:1">
+   <title>formular 6.13 is important just use it first and then study how it come , but at first of all you should have understand how it come</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
  </folder>
  <folder href="file:///home/jack/doc/computerScience/algorithm/taocp/The Art of Computer Programming, Vol. 1 Fundamental Algorithms, 3rd Edition (Donald E. Knuth) (Z-Library).pdf">
   <title>/home/jack/doc/computerScience/algorithm/taocp/The Art of Computer Programming, Vol. 1 Fundamental Algorithms, 3rd Edition (Donald E. Knuth) (Z-Library).pdf</title>
@@ -19648,7 +19656,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#115;C2:0.5:0.234772:1">
-   <title>CHAPTER IV</title>
+   <title>CHAPTER IV Combination of Events</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19656,7 +19664,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#250;C2:0.5:0.595178:1">
-   <title>#251</title>
+   <title>6 CHEBYSHEV INEQUALITY</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19664,7 +19672,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#229;C2:0.5:0.222716:1">
-   <title>CHAPTER IX</title>
+   <title>CHAPTER IX Random Variables; Expectation</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19672,7 +19680,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#281;C2:0.5:0.222716:1">
-   <title>CHAPTER XI Integral-Valuedd Variables. Gernerating Functions</title>
+   <title>CHAPTER XI Integral-Valued Variables. Gernerating Functions</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19728,7 +19736,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#131;C2:0.5:0.210684:1">
-   <title>CHAPTER V</title>
+   <title>CHAPTER V Conditional Probability. Stochastic Independence</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19736,7 +19744,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#191;C2:0.5:0.210684:1">
-   <title>CHAPTER VII</title>
+   <title>CHAPTER VII The Normal Approximation to the Binomial Distribution</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19744,7 +19752,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#213;C2:0.5:0.210684:1">
-   <title>CHAPTER VIII</title>
+   <title>CHAPTER VIII Unlimited Sequences of Bernoulli Trials</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19768,7 +19776,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#303;C2:0.5:0.222089:1">
-   <title>CHAPTER XII</title>
+   <title>CHAPTER XII Compound Distributions. Branching Processes</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19776,15 +19784,7 @@ Environment</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#320;C2:0.5:0.222089:1">
-   <title>CHAPTER XIII</title>
-   <info>
-    <metadata owner="http://freedesktop.org">
-     <bookmark:icon name=""/>
-    </metadata>
-   </info>
-  </bookmark>
-  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#24;C2:0.5:0.497987:1">
-   <title>#25-1</title>
+   <title>CHAPTER XIII Recurrent Events. Renewal Theory</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -19801,6 +19801,1070 @@ Environment</title>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#26;C2:0.5:0.520989:1">
    <title>2 EXAMPLES great examples</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#0;C2:0.5:0.957967:1">
+   <title>20250929 Now I take advantage of this book just for knowledge which workd by Jacob Bernoulli</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#287;C2:0.5:0.401506:1">
+   <title>3 EQUALIZATIONS AND WAITING TIMES IN BERNOULLI TRIALS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#18;C2:0.5:0.427466:1">
+   <title>1 THE BACKGROUND</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#20;C2:0.5:0.252095:1">
+   <title>2 PROCEDURE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#21;C2:0.5:0.252095:1">
+   <title>3 STATISTICAL PROBABILITY</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#22;C2:0.5:0.45519:1">
+   <title>4 SUMMARY</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#23;C2:0.5:0.252095:1">
+   <title>5 HISTORICAL NOTE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#24;C2:0.5:0.357834:1">
+   <title>1 THE EMPIRICAL BACKGROUND</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#26;C2:0.5:0.478401:1">
+   <title>2 EXAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#30;C2:0.5:0.82334:1">
+   <title>3 THE SAMPLE SPACE EVENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#31;C2:0.5:0.911025:1">
+   <title>4 RELATIONS AMONG EVENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#34;C2:0.5:0.574468:1">
+   <title>5 DISCRETE SAMPLE SPACES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#36;C2:0.5:0.0348162:1">
+   <title>6 PROBABILITIES IN DISCRETE SAMPLE </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#45;C2:0.5:0.529981:1">
+   <title>2 ORDERED SAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#48;C2:0.5:0.445519:1">
+   <title>3 EXAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#51;C2:0.5:0.0618956:1">
+   <title>4 SUBPOPULATIONS AND PARTITIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#55;C2:0.5:0.0664088:1">
+   <title>5 APPLICATION TO OCCUPANCY PROBLEMS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#57;C2:0.5:0.770471:1">
+   <title>A BK</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#59;C2:0.5:0.252095:1">
+   <title>A BK</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#60;C2:0.5:0.65893:1">
+   <title>6 THE HYPERGEMETRIC DISTRIBUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#64;C2:0.5:0.513862:1">
+   <title>7 EXAMPLES FOR WAITING TIMES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#67;C2:0.5:0.0638298:1">
+   <title>8 BINOMIAL COEFFICIENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#69;C2:0.5:0.0283688:1">
+   <title>9 STIRLING FORMULA</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#71;C2:0.5:0.649903:1">
+   <title>10 EXERCISE AND EXAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#85;C2:0.5:0.252095:1">
+   <title>1 GENERAL ORIENTATION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#90;C2:0.5:0.568343:1">
+   <title>2 RANDM WALKS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#93;C2:0.5:0.546422:1">
+   <title>3 THE MAIN LEMMA</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#95;C2:0.5:0.374275:1">
+   <title>4 LAST VISIT AND LONG LEADS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#101;C2:0.5:0.116377:1">
+   <title>5 CHANGES OF SIGN</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#103;C2:0.5:0.503224:1">
+   <title>6 AN EXPERIMENTAL ILLUSTRATION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#105;C2:0.5:0.696647:1">
+   <title>7 MAXIMA AND FIRST PASSAGES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#108;C2:0.5:0.806899:1">
+   <title>8 DUALITY POSITION OF MAXIMA</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#118;C2:0.5:0.697937:1">
+   <title>2 APPLICATIN TO THE CLASSICAL OCCUPANCY PROBLEM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#115;C2:0.323315:0.546422:1">
+   <title>1 UNION OF EVENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#123;C2:0.5:0.409091:1">
+   <title>3 THE REALIAZTION OF M AMONG N EVENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#124;C2:0.5:0.43617:1">
+   <title>4 APPLICATION TO MATCHING AND GUESSING</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#131;C2:0.5:0.467118:1">
+   <title>1 CONDITIONAL PROBABILITY</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#135;C2:0.5:0.235654:1">
+   <title>2 PROBABILITIES DEFINED BY CONDITIONAL PROBABILITIES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#142;C2:0.5:0.235654:1">
+   <title>3 STOCHASTIC INDEPENDENCE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#145;C2:0.5:0.768214:1">
+   <title>4 PRODUCT SPACE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#149;C2:0.5:0.738556:1">
+   <title>5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#149;C2:0.5:0.735654:1">
+   <title>5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#153;C2:0.5:0.586718:1">
+   <title>6</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#156;C2:0.5:0.242424:1">
+   <title>7 SELECTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#164;C2:0.5:0.841393:1">
+   <title>2 THE BINOMIAL DISTRIBUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#167;C2:0.5:0.70793:1">
+   <title>3</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#169;C2:0.5:0.10187:1">
+   <title>4</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#170;C2:0.5:0.242424:1">
+   <title>5 THE POISSON APPROXIMATION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#173;C2:0.5:0.577047:1">
+   <title>6 THE POISSON DISTRIBUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#176;C2:0.5:0.782076:1">
+   <title>7 OBSERVATION FITTING THE POISSON DISTRIBUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#181;C2:0.5:0.828498:1">
+   <title>8 WAITING TIMES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#191;C2:0.5:0.595745:1">
+   <title>1 THE NORMAL DISTRIBUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#196;C2:0.5:0.416505:1">
+   <title>2 ORIENTATION SYMMETRIC DISTRIBUTIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#199;C2:0.5:0.726628:1">
+   <title>3 THE DEMOIVRE LAPLACE LIMIT THEOREM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#204;C2:0.5:0.124436:1">
+   <title>4 EXAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#207;C2:0.5:0.413282:1">
+   <title>5 RELATION TO POISSON APPROXIMATION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#210;C2:0.5:0.793681:1">
+   <title>7 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#213;C2:0.5:0.468407:1">
+   <title>1 INFINITE SEQUENCES OF TRIALS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#215;C2:0.5:0.675371:1">
+   <title>2 SYSTEM OF GAMBLING</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#217;C2:0.5:0.835912:1">
+   <title>3 THE BOREL CANTELLI LEMMAS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#219;C2:0.5:0.779175:1">
+   <title>4 THE STRONG LAW OF LARGE NUMBERS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#221;C2:0.5:0.488395:1">
+   <title>5 THE LAW OF ITERATED LOGARITHM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#225;C2:0.5:0.594133:1">
+   <title>6 INTERPRETATION IN NUMBER THEORY LANGUAGE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#359;C2:0.5:0.236111:1">
+   <title>CHAPTER XIV Random Walk and Ruin Problems</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#389;C2:0.5:0.236111:1">
+   <title>CHAPTER XV Markow Chains</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#445;C2:0.5:0.236111:1">
+   <title>CHAPTER XVI Algebric Treatment of time Finite Markov Chains</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#320;C2:0.5:0.329106:1">
+   <title>1 INFORMAL PREPARATIONS AND EXAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#324;C2:0.5:0.900362:1">
+   <title>2 DEFINITIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#328;C2:0.5:0.538043:1">
+   <title>3 THE BASIC RELATIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#330;C2:0.5:0.59843:1">
+   <title>4 EXAMPLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#333;C2:0.5:0.779589:1">
+   <title>5 DELAYED RECURRENT EVENTS A GENERAL LIMIT THEOREM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#337;C2:0.5:0.59843:1">
+   <title>6 THE NUMBER OF OCCURRENCES OF </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#339;C2:0.5:0.760266:1">
+   <title>7 APPLICATION TO THE THEORY OF SUCCESS RUNS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#343;C2:0.5:0.658816:1">
+   <title>8 MORE GENERAL PATTERNS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#345;C2:0.5:0.477657:1">
+   <title>9 LACK OF MEMORY OF GEOMETRRIC WAITING TIMES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#346;C2:0.5:0.658816:1">
+   <title>10 RENEWAL THEORY</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#352;C2:0.5:0.839976:1">
+   <title>11 PROOF OF THE BASIC LIMIT THEOREM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#355;C2:0.5:0.779589:1">
+   <title>12 PROBLEMS OF SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#359;C2:0.5:0.417271:1">
+   <title>1 GENERAL ORIENTATION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#361;C2:0.5:0.356884:1">
+   <title>2 THE CLASSIC RUIN PROBLEM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#365;C2:0.5:0.236111:1">
+   <title>3 EXPECTED DURATION OF THE GAME</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#366;C2:0.5:0.538043:1">
+   <title>4 GENERATING FUNCTIONS FOR THE DURATION OF THE GAME AND FOR THE FIRST PASSAGE TIMES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#369;C2:0.5:0.356884:1">
+   <title>5 EXPLICIT EXPRESSIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#371;C2:0.5:0.477657:1">
+   <title>6 CONNECTION WITH DIFFUSION PROCESSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#376;C2:0.5:0.719203:1">
+   <title>7 RANDOM WALKS IN THE PLANE AND SPACE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#380;C2:0.5:0.0549517:1">
+   <title>8 THE GENERALIZED ONE DIMENSIONAL RANDOM WALK</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#384;C2:0.5:0.115338:1">
+   <title>9 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#389;C2:0.5:0.356884:1">
+   <title>1 DEFINITION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#399;C2:0.5:0.839976:1">
+   <title>3 HIGHER TRANSITION PROBABILITIES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#401;C2:0.5:0.477657:1">
+   <title>4 CLOSURES AND CLOSED SETS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#404;C2:0.5:0.236111:1">
+   <title>5 CLASSIFICATION OF STATES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#407;C2:0.5:0.719203:1">
+   <title>6 IRREDUCIBLE CHAINS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#409;C2:0.5:0.839976:1">
+   <title>7 INVARIANT DISTRIBUTIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#416;C2:0.5:0.296498:1">
+   <title>8 TRANSIENT STATES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#421;C2:0.5:0.115338:1">
+   <title>9 PERIODIC CHAINS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#423;C2:0.5:0.236111:1">
+   <title>10 APPLICATION TO CARD SHUFFLING</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#424;C2:0.5:0.538043:1">
+   <title>11 INVARIANT MEASURES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#431;C2:0.5:0.115338:1">
+   <title>12</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#436;C2:0.5:0.417271:1">
+   <title>13</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#441;C2:0.5:0.115338:1">
+   <title>14</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#281;C2:0.5:0.429668:1">
+   <title>1 GENERALITIES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#283;C2:0.5:0.493606:1">
+   <title>2 CONVOLUTIONS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#287;C2:0.5:0.365729:1">
+   <title>3 EQUALIZATIONS AND WAITING TIMES IN BERNOULLI TRIALS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#297;C2:0.5:0.109974:1">
+   <title>6 THE CONTINUITY THEOREM</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#300;C2:0.5:0.109974:1">
+   <title>7 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#303;C2:0.5:0.691816:1">
+   <title>1 SUMS OF A RANDOM NUMBER OF VARIABLES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#305;C2:0.5:0.539003:1">
+   <title>2 THE COMPOUND POISSON DISTRIBUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#310;C2:0.5:0.532609:1">
+   <title>3 EXAMPLES FOR BRANCHING PROCESSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#312;C2:0.5:0.606138:1">
+   <title>4 EXTINCTION PROBABLITIES IN BRANCHING PROCESSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#315;C2:0.5:0.167519:1">
+   <title>5 THE TOTAL PROGENY IN BRANCHING PROCESSES</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#318;C2:0.5:0.368926:1">
+   <title>6 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#186;C2:0.5:0.230818:1">
+   <title>10 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#157;C2:0.5:0.673274:1">
+   <title>8 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#227;C2:0.5:0.246164:1">
+   <title>7 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#112;C2:0.5:0.803069:1">
+   <title>10 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#254;C2:0.5:0.207161:1">
+   <title>9 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#278;C2:0.5:0.357417:1">
+   <title>8 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#75;C2:0.5:0.83312:1">
+   <title>11 PROBLEMS FOR COMPLEMENTS OF A THEORETICAL CHARACTER</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#80;C2:0.5:0.0933504:1">
+   <title>12 PROBLEMS AND IDENTITIES INVOLVING BINOMIAL COEFFICIENTS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#128;C2:0.5:0.305627:1">
+   <title>6 PROBLEMS FOR SOLUTION</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#500;C2:0.5:0.25:1">
+   <title>Answers to Problems</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#500;C2:0.5:0.442455:1">
+   <title>ANSWER CHAPTER I</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#500;C2:0.5:0.788363:1">
+   <title>ANSWER CHAPTER II</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#504;C2:0.5:0.673913:1">
+   <title>ANSWER CHAPTER IV</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#506;C2:0.5:0.102941:1">
+   <title>ANSWER CHAPTER V</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#507;C2:0.5:0.169437:1">
+   <title>ANSWER CHAPTER VI</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#508;C2:0.5:0.831202:1">
+   <title>ANSWER CHAPTER IX</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#510;C2:0.5:0.755754:1">
+   <title>ANSWER CHAPTER XI</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#511;C2:0.5:0.855499:1">
+   <title>ANSWER CHAPTER XIII</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#512;C2:0.5:0.757673:1">
+   <title>ANSWER CHAPTER XIV</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#513;C2:0.5:0.712916:1">
+   <title>ANSWER CHAPTER XV</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#515;C2:0.5:0.179028:1">
+   <title>ANSWER CHAPTER XVII</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications%20vol%201.djvu#41;C2:0.5:0.12468:1">
+   <title>8 PROBLEMS FOR SOLUTION</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -35405,7 +36469,7 @@ Applications of Digital Electronics</title>
    </info>
   </bookmark>
   <bookmark href="file:///home/jack/doc/math/differential/Introduction%20to%20Analysis%20of%20the%20Infinite%20Volume%201.djvu#127;C2:0.5:0.269644:1">
-   <title>ART 140</title>
+   <title>ART 140 about pi </title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -54143,6 +55207,317 @@ Applications of Digital Electronics</title>
   <title>/home/jack/doc/Euler_works/uni-mainz/E19RevisedVersion1.pdf</title>
   <bookmark href="file:///home/jack/doc/Euler_works/uni-mainz/E19RevisedVersion1.pdf#0;C2:0.5:0.228588:1">
    <title>a very very importan article</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/Euler_works/uni-mainz/E43RevisedVersion1.pdf">
+  <title>/home/jack/doc/Euler_works/uni-mainz/E43RevisedVersion1.pdf</title>
+  <bookmark href="file:///home/jack/doc/Euler_works/uni-mainz/E43RevisedVersion1.pdf#0;C2:0.5:0.274306:1">
+   <title>important</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/Euler_works/uni-mainz/E43RevisedVersion1.pdf#0;C2:0.5:0.65242:1">
+   <title>about euler constant</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/bernoulli/Ars Conjectandi _part_english.pdf">
+  <title>/home/jack/doc/bernoulli/Ars Conjectandi _part_english.pdf</title>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#14;C2:0.5:0.258119:1">
+   <title>PREFACE</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#31;C2:0.5:0.82679:1">
+   <title>CAPUT I</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#30;C2:0.5:0.249423:1">
+   <title>ARTIS CONJECTANDI</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#40;C2:0.5:0.171363:1">
+   <title>CAPUT II</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#45;C2:0.5:0.208314:1">
+   <title>CAPUT III</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#67;C2:0.5:0.194457:1">
+   <title>CHAPTER I</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#64;C2:0.5:0.223557:1">
+   <title>TRANSLATION OF THE THREE FIRST CHAPTERS</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#81;C2:0.5:0.139492:1">
+   <title>#52</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#96;C2:0.5:0.394919:1">
+   <title>#67</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#1;C2:0.5:0.785425:1">
+   <title>very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#159;C2:0.5:0.435104:1">
+   <title>#130</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#162;C2:0.5:0.448037:1">
+   <title>#133</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#168;C2:0.5:0.213395:1">
+   <title>#139</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#176;C2:0.5:0.177367:1">
+   <title>#147</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#177;C2:0.5:0.449885:1">
+   <title>#148</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#184;C2:0.5:0.218014:1">
+   <title>#155</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#191;C2:0.5:0.15843:1">
+   <title>#162</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#197;C2:0.5:0.693764:1">
+   <title>#168</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#203;C2:0.5:0.186143:1">
+   <title>#174</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#205;C2:0.5:0.614781:1">
+   <title>#176</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#218;C2:0.5:0.231871:1">
+   <title>#189</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#225;C2:0.5:0.179677:1">
+   <title>#196</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#622;C2:0.5:0.44124:1">
+   <title>#593</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#624;C2:0.5:0.244831:1">
+   <title>the numbers in table is same as Bernoulli Numbers , which must be related with Bernoulli numbers...</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/Ars%20Conjectandi%20_part_english.pdf#242;C2:0.5:0.783446:1">
+   <title>End of Translation of content of James Bernoulli</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf">
+  <title>/home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf</title>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#0;C2:0.5:0.195172:1">
+   <title>very very very good book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#6;C2:0.5:0.394766:1">
+   <title>#7</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#14;C2:0.5:0.282265:1">
+   <title>#15</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#67;C2:0.5:0.223274:1">
+   <title>#68</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#81;C2:0.5:0.214365:1">
+   <title>#82</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#199;C2:0.5:0.608575:1">
+   <title>#200</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/bernoulli/doctrinepermuta00wallgoog.pdf#240;C2:0.5:0.839301:1">
+   <title>end of signal of content of james bernoulli</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/math/probability/An Introduction to Probability Theory and Its Applications, Volume 2, Second Edition (William Feller) (Z-Library).pdf">
+  <title>/home/jack/doc/math/probability/An Introduction to Probability Theory and Its Applications, Volume 2, Second Edition (William Feller) (Z-Library).pdf</title>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20Introduction%20to%20Probability%20Theory%20and%20Its%20Applications,%20Volume%202,%20Second%20Edition%20(William%20Feller)%20(Z-Library).pdf#0;C2:0.5:0.288535:1">
+   <title>#1</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20Introduction%20to%20Probability%20Theory%20and%20Its%20Applications,%20Volume%202,%20Second%20Edition%20(William%20Feller)%20(Z-Library).pdf#7;C2:0.5:0.30448:1">
+   <title>#8</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/jack/doc/math/probability/An introduction to probability theory and its applications, vol. 2 (1970, Wiley).djvu">
+  <title>/home/jack/doc/math/probability/An introduction to probability theory and its applications, vol. 2 (1970, Wiley).djvu</title>
+  <bookmark href="file:///home/jack/doc/math/probability/An%20introduction%20to%20probability%20theory%20and%20its%20applications,%20vol.%202%20(1970,%20Wiley).djvu#0">
+   <title>should be very very very good book</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
